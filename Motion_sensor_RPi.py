@@ -1,3 +1,8 @@
+#Motion_sensor_RPi.py
+#
+#This program watches the USB port connected to the neighbooring Arduino 
+#and reacts with a simulated 'right' keypress when a signal is received
+
 import serial
 from subprocess import Popen, PIPE
 right_sequence = '''key Right'''
