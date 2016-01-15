@@ -1,4 +1,4 @@
-# Motion_sensor_module
+# Swiper_module
 An Arduino microcontroller interfacing with a Raspberry Pi to read a 'swiping' hand gesture.
 
 ***Hardware/software configuration***  
