@@ -1,4 +1,5 @@
 /* Motion_sensor_Ard.ino
+ * (Arduino sketch)
  * 
  * This program simulates a swipe gesture reader. It is configured to work only on swipes from right to left.
  * The second motion sensor (leftmost) will only activate once the first sensor reads activity. If the second sensor then reads activity a successful swipe gesture has been made
